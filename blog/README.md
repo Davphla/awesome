@@ -1,4 +1,6 @@
-cool stuff i'm writing
+# Blog
+
+Cool stuff I'm writing.
 
 TODO:
 - How to write good documentation

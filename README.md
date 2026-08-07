@@ -3,12 +3,13 @@ Links about topics I'm learning.
 
 ## Quick access
 
-- **[WHOAMI](WHOAMI.md)** - About me and my profile 
+- **[WHOAMI](WHOAMI.md)** - About me and my profile
 - **[Awesome](awesome/README.md)** - Curated lists of resources
   - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
 - **[Blog](blog/README.md)** - Personal blog posts and writings
 - **[Data](data/README.md)** - Curated datasets and IPFS links (mostly geographic)
+- **[Presentations](presentations/README.md)** - Slides of my public presentations
 - **[Skills](skills/README.md)** - Agent skills and capabilities
 
 Links are ordered by language: English, French (🇫🇷), then other languages.
@@ -145,7 +146,7 @@ FOSS I'm using in my daily life.
 ## Linux
 *Empty*
 
-## Self-host 
+## Self-host
 - Immich - https://github.com/immich-app/immich - High-performance self-hosted photo and video management solution
 
 # 🎮 Games
@@ -273,7 +274,7 @@ Ordered by preferences.
 
 ## Programming
 ### Good practice
-- 🇫🇷 Comment la NASA code sans bug - [YouTube](https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4) - V2F 
+- 🇫🇷 Comment la NASA code sans bug - [YouTube](https://youtu.be/wTZcGN4N334?si=F3-rLuPC2GxYYVO4) - V2F
 
 ### Operating Systems
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - [YouTube](https://www.youtube.com/watch?v=ELTwwTsR5w8) - V2F
@@ -356,6 +357,6 @@ Descriptions are my personal view, visit the channels for the full picture.
 
 ## Podcast
 - 🇫🇷 Underscore_ - [YouTube](https://www.youtube.com/@Underscore_) - Long-form interviews with French tech figures
-- 
+
 ## Urbanism
 - Not Just Bikes - [YouTube](https://www.youtube.com/@NotJustBikes) - Urban planning, cycling infrastructure, and why car-dependent cities fail

@@ -1,11 +1,13 @@
-TODO add skills, focus, add more link to my projects
-Add what i did in each contributions
+<!--
+TODO: add skills, focus, add more links to my projects
+TODO: add what I did in each contribution
+-->
 
-## whoami - resume or achievement
+# WHOAMI
 
 - name: David Gozlan
-- educations: 
-  - Diploma Master 2 IT - Epitech 2020 - 2025
+- education:
+  - Diploma Master 2 IT - Epitech (2020–2025)
   - Chung Ang University, South Korea (2023–2024)
 - languages: French (native), English (fluent)
 - links:
@@ -15,12 +17,12 @@ Add what i did in each contributions
 
 ## Experiences
 
-**DevRel** — Samourai World *(march 2025–present)*
+**DevRel** — Samourai World *(March 2025–present)*
 - Developer Relations for Samourai Coop and Gno.land ecosystem
 - Building educational content, DAO frameworks, community
 - [peerdev](https://github.com/samouraiworld/peerdev) — P2P & blockchain tutorials YouTube channel
 
-**Pedagogical Assistant** - 5th year internship - Epitech *(march 2025-august 2025)*
+**Pedagogical Assistant** - 5th year internship - Epitech *(March 2025–August 2025)*
 - Mentored 1st/2nd/3rd year CS students on projects and grading
 - [AER-Lyon/corewar-hackathon](https://github.com/AER-Lyon/corewar-hackathon) ⭐6 — Epitech Corewar Hackathon 🏆
 - [corewar-vscode-extension](https://github.com/davd-gzl/corewar-vscode-extension) — Redcode VS Code extension
@@ -30,7 +32,7 @@ Add what i did in each contributions
 - Mentored 1st/2nd/3rd year CS students on projects and grading
 
 **OCaml Library Developer** — 3rd year internship - ENS LIP, Inria *(2023)*
-- Start a contribution to parallelization library for distributed programming
+- Started a contribution to a parallelization library for distributed programming
 - [RPC-Ocaml](https://github.com/davd-gzl/RPC-Ocaml) — RPC module implementation for OCaml
 
 **Web Developer Intern** - 2nd year internship - Dafy Moto *(2022)*
@@ -40,12 +42,12 @@ Add what i did in each contributions
 
 ### Notable Repository
 - [gnolang/gno](https://github.com/gnolang/gno) ⭐1k — Interpreted Go VM for blockchain apps
-- [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform 
+- [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform
 
 ### Samourai World
 - [peerdev](https://github.com/samouraiworld/peerdev) — P2P & blockchain tutorials
 - [gnodaokit](https://github.com/samouraiworld/gnodaokit) — DAO framework in Gnolang
-- [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform 
+- [samouraiworld/zenao](https://github.com/samouraiworld/zenao) ⭐11 — Decentralized event management platform
 
 ### Personal Projects
 - [clang-format-epitech](https://github.com/davd-gzl/clang-format-epitech) ⭐~30 — Auto-formatting config for Epitech C/C++ coding style
