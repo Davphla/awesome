@@ -17,12 +17,12 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
 - [📝 Blogs](#-blogs)
   - [Decentralization / Web3 / Blockchain](#decentralization--web3--blockchain)
 - [📚 Books](#-books)
-  - [Cryptography](#cryptography-1)
+  - [Cryptography](#cryptography)
 - [📖 Documentations](#-documentations)
   - [Blockchain](#blockchain)
-    - [Consensus](#concensus)
+    - [Consensus](#consensus)
     - [Layer 2](#layer-2)
-  - [Cryptography](#cryptography)
+  - [Cryptography](#cryptography-1)
     - [Algorithm](#algorithm)
     - [Math](#math)
     - [Post-Quantum](#post-quantum)
@@ -46,10 +46,10 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
   - [Everyday carry (EDC)](#everyday-carry-edc)
   - [Tech Gear](#tech-gear)
 - [📹 Videos](#-videos)
-  - [AI](#ai)
+  - [AI](#ai-1)
   - [Blockchain](#blockchain-1)
     - [Bitcoin implementation](#bitcoin-implementation)
-  - [Cyber-security](#cyber-security-1)
+  - [Cyber-security / Privacy](#cyber-security--privacy)
   - [Geopolitical / History](#geopolitical--history)
   - [Journalist](#journalist)
   - [Open Source Interviews](#open-source-interviews)
@@ -85,7 +85,7 @@ Ordered by preferences.
 Ordered by addition date.
 
 ## Blockchain
-### Concensus
+### Consensus
 - Reaching Consensus: Developing Fault-tolerant SMTs using Golang - https://gno.land/r/gnoland/blog:p/reaching-consensus
 
 ### Layer 2
