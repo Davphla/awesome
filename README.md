@@ -58,6 +58,7 @@ Links are ordered by language: English, French (🇫🇷), then other languages.
     - [Good practice](#good-practice-1)
     - [Operating Systems](#operating-systems)
   - [Science](#science)
+  - [Tech](#tech)
   - [Travel / World documentaries](#travel--world-documentaries)
   - [Urbanism](#urbanism)
 - [📺 Youtube channels](#-youtube-channels)
@@ -192,10 +193,6 @@ Ordered by preferences.
 - 🇫🇷 How to bribe a public official? - [YouTube](https://www.youtube.com/watch?v=mKGFsDbvBsA) - Micode
 - 🇫🇷 Comment un selfie a fait tomber un empire criminel - [YouTube](https://www.youtube.com/watch?v=Vj4474vTtQ8) - Micode
 
-## Open Source Interviews
-- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - [YouTube](https://www.youtube.com/watch?v=c_QcUxvOhaM) - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
-- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - [YouTube](https://www.youtube.com/watch?v=_NK-AbwA3PM) - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
-
 ## Geopolitical / History
 - The New "Made in China" - [YouTube](https://www.youtube.com/watch?v=It1xr6FQcAo) - hoser
 - GREECE IS OVER. - [YouTube](https://www.youtube.com/watch?v=yO60Ala2Uio) - hoser
@@ -264,6 +261,10 @@ Ordered by preferences.
 - 🇫🇷 J'ai passé un mois avec un criminel de guerre - [YouTube](https://www.youtube.com/watch?v=Fu_yUVV5ti0) - Camille Reporter
 - 🇫🇷 Clandestins : les routes les plus dangereuses vers l'Europe - [YouTube](https://www.youtube.com/watch?v=9JggKtbnBCY) - Investigation
 
+## Open Source Interviews
+- 🇫🇷 PARTI DE RIEN, IL EST DANS LE TOP 3 DES FORTUNES BELGES : SA BOITE VAUT 5 MILLIARDS DE $ ! (ODOO) - [YouTube](https://www.youtube.com/watch?v=c_QcUxvOhaM) - LEGEND - Story of Fabien Pinckaers, who built Odoo (open-source ERP) from nothing into a $5B company
+- 🇫🇷 Ce logiciel devrait être payant (tellement il est ouf) - [YouTube](https://www.youtube.com/watch?v=_NK-AbwA3PM) - Underscore_ - Interview with an open-source software entrepreneur behind an exceptional free product
+
 ## Philosophy / Concept
 - I Was An MIT Educated Neurosurgeon Now I'm Unemployed And Alone In The Mountains - [YouTube](https://www.youtube.com/watch?v=25LUF8GmbFU) - Goobie and Doobie
 - 🇫🇷 Le Jeu de la Vie. - [YouTube](https://www.youtube.com/watch?v=eMn43As24Bo) - EGO
@@ -276,11 +277,6 @@ Ordered by preferences.
 
 ### Operating Systems
 - 🇫🇷 Vas-y, viens, on recode Windows de zéro - [YouTube](https://www.youtube.com/watch?v=ELTwwTsR5w8) - V2F
-
-### Tech
-- The Internet, Reinvented. - [YouTube](https://www.youtube.com/watch?v=XTnYVh7K6xQ) - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
-- Go isn't secure?!? feat. Low Level Learning - [YouTube](https://www.youtube.com/watch?v=N936XwLmtmo) - Backend Banter
-- 🇫🇷 On a reçu le géographe qui cartographie le net - [YouTube](https://www.youtube.com/watch?v=iI3nE9wBn48) - Underscore_
 
 ## Science
 - Is Fast Charging Killing the Battery? A 2-Year Test on 40 Phones - [YouTube](https://www.youtube.com/watch?v=kLS5Cg_yNdM) - Veritasium
@@ -296,6 +292,11 @@ Ordered by preferences.
 - 🇫🇷 L'actualité est un parasite mental. Faut-il vraiment en consommer ? - [YouTube](https://www.youtube.com/watch?v=HJOpzABZVpo) - DirtyBiology
 - 🇫🇷 La menace existentielle de la vie MIROIR | ЯIOЯIM - [YouTube](https://www.youtube.com/watch?v=iVPNzCHJlQI) - DirtyBiology
 - 🇫🇷 Ce qui nous rend heureux : le résultat de 10.000 études scientifiques - [YouTube](https://www.youtube.com/watch?v=LbJ8V8y4ruk) - DirtyBiology
+
+## Tech
+- The Internet, Reinvented. - [YouTube](https://www.youtube.com/watch?v=XTnYVh7K6xQ) - Data Slayer - Building a decentralized, encrypted mesh network over LoRa and Wi-Fi HaLow using the Reticulum stack — no ISP, no central servers
+- Go isn't secure?!? feat. Low Level Learning - [YouTube](https://www.youtube.com/watch?v=N936XwLmtmo) - Backend Banter
+- 🇫🇷 On a reçu le géographe qui cartographie le net - [YouTube](https://www.youtube.com/watch?v=iI3nE9wBn48) - Underscore_
 
 ## Travel / World documentaries
 - I Spent A Day With Kids Who Walk 5 Hours To School - [YouTube](https://www.youtube.com/watch?v=frhoqX9ADdc) - Drew Binsky
