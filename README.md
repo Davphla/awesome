@@ -7,7 +7,7 @@ Links about topics I'm learning.
 - **[Awesome](awesome/README.md)** - Curated lists of resources
   - [Digital Nomad / Traveller](awesome/digital-nomad.md) - Flights, accommodation, community
   - [Offline Traveller](awesome/offline-traveller.md) - Apps and tools that work offline (FOSS prioritized)
-- **[Blog](blog/README.md)** - Personal blog posts and writings
+- **[Blog](blog/README.md)** - Personal blog posts and writings 
 - **[Data](data/README.md)** - Curated datasets and IPFS links (mostly geographic)
 - **[Presentations](presentations/README.md)** - Slides of my public presentations
 - **[Skills](skills/README.md)** - Agent skills and capabilities
